@@ -29,4 +29,4 @@ ___
 
 ### Credits :
 - The Logo, Name, Source-Code, And Publication is by **Luc Rodriguez** (Aliases : Shambi, StyledDev)
-- All credit for [Hyra](https://hyra.io/) goes to it's Contributors, of which can be found with it's Source-Code [here](https://github.com/hyra-io/Discord-Webhook-Proxy).
+- All credit for [Hyra](https://hyra.io/) goes to it's Contributors, of which can be found along with it's Source-Code [here](https://github.com/hyra-io/Discord-Webhook-Proxy).
