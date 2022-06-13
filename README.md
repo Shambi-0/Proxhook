@@ -9,6 +9,7 @@ ___
 
 #### Simple Usage!
 > A Discord webhook should be structured similar to this : `https://discord.com/api/webhooks/ID/TOKEN` 
+
 > and using Proxhook is just a matter of plugging in the ID, TOKEN, & the data you want to send.
 ```lua
 local Proxhook = require(script.Proxhook);
