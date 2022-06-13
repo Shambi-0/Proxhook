@@ -6,8 +6,8 @@ ___
 Testing
 
 ## References :
-- ([Devforum Post](https://devforum.roblox.com/t/proxhook-a-module-for-proxying-discord-webhooks/1505544))
-- ([Roblox Model](https://www.roblox.com/library/7719426842/Proxhook))
+- The original Devforum Post can be found [here](https://devforum.roblox.com/t/proxhook-a-module-for-proxying-discord-webhooks/1505544)).
+- The officially uploaded version can be found [here](https://www.roblox.com/library/7719426842/Proxhook)!
 
 ## Credits :
 - The Logo, Name, Source-Code, And Publication is by **Luc Rodriguez** (Aliases : Shambi, StyledDev)
