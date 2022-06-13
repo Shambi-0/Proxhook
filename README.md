@@ -8,8 +8,7 @@ ___
 > Using the rate-limit information Hyra provides, Requests that are being rate-limited are stored until the rate-limit window has reset. in other words : if your request is valid, it won’t get dropped.
 
 #### Simple Usage!
-> A Discord webhook should be structured similar to this :
-> `https://discord.com/api/webhooks/ID/TOKEN` 
+> A Discord webhook should be structured similar to this : `https://discord.com/api/webhooks/ID/TOKEN` 
 > and using Proxhook is just a matter of plugging in the ID, TOKEN, & the data you want to send.
 ```lua
 local Proxhook = require(script.Proxhook);
