@@ -3,4 +3,4 @@
 # A Module for proxying discord webhooks designed for Luau!
 ___
 
-([Original Devforum-Post can be found here.](https://devforum.roblox.com/t/proxhook-a-module-for-proxying-discord-webhooks/1505544))
+**(**[Original Devforum-Post can be found here](https://devforum.roblox.com/t/proxhook-a-module-for-proxying-discord-webhooks/1505544)**)**
