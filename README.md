@@ -3,7 +3,7 @@
 # A Module for proxying discord webhooks!
 ___
 
-## Features
+# Features
 #### Managed Requests!
 > Using the rate-limit information Hyra provides, Requests that are being rate-limited are stored until the rate-limit window has reset. in other words : if your request is valid, it won’t get dropped.
 
