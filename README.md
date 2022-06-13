@@ -5,7 +5,10 @@ ___
 
 Testing
 
-___
-
 ## References :
-- ([Original Devforum-Post can be found here](https://devforum.roblox.com/t/proxhook-a-module-for-proxying-discord-webhooks/1505544))
+- ([Devforum Post](https://devforum.roblox.com/t/proxhook-a-module-for-proxying-discord-webhooks/1505544))
+- ([Roblox Model](https://www.roblox.com/library/7719426842/Proxhook))
+
+## Credits :
+- The Logo, Name, Source-Code, And Publication is by **Luc Rodriguez** (Aliases : Shambi, StyledDev)
+- All credit for [Hyra](https://hyra.io/) goes to it's Contributors, of which can be found with it's Source-Code [here](https://github.com/hyra-io/Discord-Webhook-Proxy).
