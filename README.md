@@ -23,10 +23,10 @@ you can find more information on the [Discord Developer Portal](https://discord.
 
 ___
 
-## References :
+### References :
 - The original Devforum Post can be found [here](https://devforum.roblox.com/t/proxhook-a-module-for-proxying-discord-webhooks/1505544).
 - The officially uploaded version can be found [here](https://www.roblox.com/library/7719426842/Proxhook)!
 
-## Credits :
+### Credits :
 - The Logo, Name, Source-Code, And Publication is by **Luc Rodriguez** (Aliases : Shambi, StyledDev)
 - All credit for [Hyra](https://hyra.io/) goes to it's Contributors, of which can be found with it's Source-Code [here](https://github.com/hyra-io/Discord-Webhook-Proxy).
